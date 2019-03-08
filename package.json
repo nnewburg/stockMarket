@@ -1,0 +1,23 @@
+{
+  "name": "stockmarket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stockMarket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnewburg/stockMarket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnewburg/stockMarket/issues"
+  },
+  "homepage": "https://github.com/nnewburg/stockMarket#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
